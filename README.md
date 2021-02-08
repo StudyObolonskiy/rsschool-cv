@@ -1,1 +1,1 @@
-# rsschool-cv
+[StudyObolonskiy](https://StudyObolonskiy.github.io/rsschool-cv/cv)
