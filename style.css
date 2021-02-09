@@ -15,6 +15,9 @@
 section {
     padding-top: 20px;
 }
+img {
+    width: 350px;
+}
 ul {
     padding-left: 15px;
     list-style-type: disc;
